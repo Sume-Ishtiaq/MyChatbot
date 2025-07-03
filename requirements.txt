@@ -2,6 +2,7 @@ langchain-community
 langchain
 langchain-groq
 PyPDF2
+pypdf
 faiss-cpu
 streamlit
 Ollama
