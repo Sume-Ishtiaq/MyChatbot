@@ -5,3 +5,5 @@ PyPDF2
 faiss-cpu
 streamlit
 Ollama
+PyPDFLoader
+sentence_transformers
